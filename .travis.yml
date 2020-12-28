@@ -3,7 +3,7 @@ env:
   - GO111MODULE=on
 branches:
   only:
-    - master
+    - main
 go:
   - main
   # go testing suite support was introduced in go 1.7, thus tests will only compile for go 1.7+.
