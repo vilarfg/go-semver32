@@ -1,7 +1,7 @@
 # go-semver32
 
 [![Sourcegraph](https://sourcegraph.com/github.com/vilarfg/go-semver32/-/badge.svg)](https://sourcegraph.com/github.com/vilarfg/go-semver32?badge)
-[![Build Status](https://travis-ci.com/vilarfg/go-semver32.svg?branch=master)](https://travis-ci.com/vilarfg/go-semver32)
+[![Build Status](https://travis-ci.com/vilarfg/go-semver32.svg?branch=main)](https://travis-ci.com/vilarfg/go-semver32)
 [![codecov](https://codecov.io/gh/vilarfg/go-semver32/branch/master/graph/badge.svg?v=4)](https://codecov.io/gh/vilarfg/go-semver32)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/vilarfg/go-semver32)](https://pkg.go.dev/github.com/vilarfg/go-semver32)
 [![rcard](https://goreportcard.com/badge/github.com/vilarfg/go-semver32?v=4)](https://goreportcard.com/report/github.com/vilarfg/go-semver32)
