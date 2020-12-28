@@ -16,7 +16,7 @@ respectively.
 
 Use this package:
 
-- if you don't need to store prerelease and build info
+- if you don't need to store prerelease and/or build info
 - if you are certain
   - the Major component will never exceed 65,535
   - the Minor and Patch components will never exceed 255
