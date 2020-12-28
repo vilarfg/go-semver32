@@ -5,11 +5,11 @@ branches:
   only:
     - master
 go:
-  - master
+  - main
   # go testing suite support was introduced in go 1.7, thus tests will only compile for go 1.7+.
   # Once we introduce TB.Helper() support (introduced in go 1.9), then tests will only run from go 1.9+.
 install:
-  - go get github.com/vilarfg/go-semver32@master
+  - go get github.com/vilarfg/go-semver32@main
   # explicitly request master, so we test changes at tip (and not the latest released version/tag)
   # also, by explicitly requesting master, we don't have to request -mod=mod or otherwise
 script:
