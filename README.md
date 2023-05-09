@@ -10,7 +10,7 @@
 Package semver offers a way to represent SemVer numbers in 32 bits.
 
 These SemVer numbers are NOT spec compliant as defined on semver.org;
-as they do not hold prerelease or build informantion and the maximum values
+as they do not hold prerelease or build information and the maximum values
 for the major, minor and patch components are 65,535, 255 and 255
 respectively.
 
