@@ -46,4 +46,4 @@ func Func() {
 
 ## License
 
-[MIT](https://github.com/vilarfg/go-semver32/blob/master/LICENSE). Copyright © 2020 Fernando G. Vilar
+[MIT](https://github.com/vilarfg/go-semver32/blob/main/LICENSE). Copyright © 2020 Fernando G. Vilar
